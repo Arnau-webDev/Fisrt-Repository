@@ -1,2 +1,0 @@
-# Fisrt-Repository
-Sample / Prueba
